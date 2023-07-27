@@ -7,3 +7,17 @@
 .container {
     display: flex;
 }
+
+.container__titulo {
+    display: none;
+}
+
+@media screen and (min-width:820px){
+
+    .container__titulo{
+        display: block;
+        margin-left:0.5em;
+    }
+       
+    
+}
