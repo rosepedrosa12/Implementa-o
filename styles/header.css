@@ -9,6 +9,10 @@
 }
 
 .container__titulo {
+        display: none;
+}
+
+.cabecalho__texto{
     display: none;
 }
 
